@@ -49,6 +49,11 @@ createApp({
             }
         },
     },
+    
+    mounted() {
+        setInterval(this.nextImage, 2000);
+    },
+
 
   }).mount('#app');
   

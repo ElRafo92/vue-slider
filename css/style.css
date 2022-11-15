@@ -72,14 +72,6 @@
     bottom: 0;
 }
 
-.active {
-    display: block;
-}
-
-.unactive {
-    display: none;
-}
-
 
 /*
 EXTRA: in questo esempio gli accordion vengono creati
